@@ -1,0 +1,11 @@
+Each row in this data file represents a single transaction that was made at either the bricks & mortar Blackwell Electronics store or on its website.
+The “in-store” column indicates where each transaction was made online (0), or in-store (1).
+The “age” column indicates the age of the customer who made the transaction.
+The “items” column tracks the number of items the customer purchased.
+The “amount” column records the amount of money spent on the transaction.
+The “region” column indicates in which of the four regions the purchase was made (1 = East, 2 = West, 3 = South, 4 = Central).
+
+Columns with known values in data sets can be referred to in several ways that are relatively synonymous: Attributes, features, independent variables, X-values and predictors.
+The unknown value of a column that you are trying to predict can also be referred to in several ways: Dependent variable, Y-value, y-Hat, output variable, Y-variable.
+Rows in a data set can be referred to as instances or observations
+
