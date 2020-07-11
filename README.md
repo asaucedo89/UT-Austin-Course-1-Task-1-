@@ -1,4 +1,5 @@
 # UT Austin Data Analytics Certificate, Course 1 Task 1 (Investigate Customer Buying Patterns) 
+With RapidMiner
 
 
 As CTO and head of Blackwell's eCommerce Team, I'd like to welcome you aboard. I'm excited to get started on this project, but I'd first like to give you a bit of background to get you up to speed. Blackwell has been a successful electronics retailer for over 40 years, with over 30 stores in the Southeast. A little over a year ago we launched our eCommerce website. We are starting to build up customer transaction data from the site and we want to leverage this data to inform our decisions about site-related activities, like online marketing, enhancements to the site and so on, in order to continue to maximize the amount of revenue we generate from eCommerce sales.
